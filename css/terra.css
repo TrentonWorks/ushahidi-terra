@@ -3,22 +3,21 @@ Theme Name: Terra
 Description: Some dark blues and browns
 Demo: http://beta1-1.ushahididev.com/
 Version: 1.0
-Author: David Kobia
-Author Email: david@ushahidi.com
+Theme Updated by Josh
 */
 
 /* header background */
 body#page{
-	background: #031634 url(../images/terra.gif) 50% 0 repeat-x;
+	background: #031634 url(../images/solvecitygraphictheme1.png) 50% 0 repeat-x;
 }
 
 /* footer */
 div#footer
 {
-	background-color: #033649;
+	background-color: #96c1c5;
 }
 div#underfooter{
-	background-color:#033649;
+	background-color:#96c1c5;
 }
 
 /* links */
