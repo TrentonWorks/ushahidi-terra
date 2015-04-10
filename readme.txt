@@ -1,6 +1,6 @@
 Theme Name: Terra-TrentonWorks
-Description: Some dark blues and browns
+Description: Blues and Yellows #TCNJIMM
 Demo: http://beta1-1.ushahididev.com/
 Version: 1.0
-Author: David Kobia
-Author Email: david@ushahidi.com
+Author: Josh Saunders
+Author Email: saundej2@tcnj.edu
