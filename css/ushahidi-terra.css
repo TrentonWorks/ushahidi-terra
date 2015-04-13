@@ -9,7 +9,7 @@ Last Update 4/13/2015
 
 /* header background */
 body#page{
-	background: #2c3e50 url(../images/solvecitygraphictheme1.png) repeat-x;
+	background: #96c1c5 url(../images/solvecitygraphictheme2.png) repeat-x;
 }
 
 /* footer */
@@ -36,7 +36,8 @@ table.table-list tbody tr td a{
 
 /* Logo Box */
 div#logo{
-    background-color: #E8DDCB;
+    background: #2c3e50 url(../images/solvecitygraphictransparent.png);
+    /*background-color: #E8DDCB; */
 }
 
 /* Main Menu */
@@ -61,8 +62,8 @@ div#mainmenu a.active{
 
 /* Submit Button */
 div.submit-incident a{
-    background-color: #fffbaa;
-    color: #000;
+    background-color: #96c1c5;
+    color: #fff;
 }
 
 div.submit-incident a:hover{
