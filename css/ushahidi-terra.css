@@ -1,32 +1,32 @@
 /*
 Theme Name: Terra
 Description: Some dark blues and browns
-Demo: http://beta1-1.ushahididev.com/
-Version: 1.0
+
 Theme Updated by Josh
+Last Update 4/13/2015
 */
 
 /* header background */
 body#page{
-	background: #031634 url(../images/solvecitygraphictheme1.png) 50% 0 repeat-x;
+	background: #2c3e50 url(../images/solvecitygraphictheme1.png) repeat-x;
 }
 
 /* footer */
 div#footer
 {
-	background-color: #96c1c5;
+	background-color: #2c3e50;
 }
 div#underfooter{
-	background-color:#96c1c5;
+	background-color:#2c3e50;
 }
 
 /* links */
 a{
-    color: #3764aa;
+    color: #2c3e50;
 }
 
 a:hover{
-    color: #008cff;
+    color: #96c1c5;
 }
 
 table.table-list tbody tr td a{
@@ -40,7 +40,7 @@ div#logo{
 
 /* Main Menu */
 div#mainmenu{
-    background-color: #C2C2C2;
+    background-color: #96c1c5;
 }
 
 div#mainmenu a{
@@ -49,31 +49,31 @@ div#mainmenu a{
 
 div#mainmenu a:hover{
 	color: #fff;
-    background-color: #036564;
+    background-color: #2c3e50;
 }
 
 div#mainmenu a.active{
     color: #fff;
-    background-color: #036564;
+    background-color: #2c3e50;
 }
 
 
 /* Submit Button */
 div.submit-incident a{
-    background-color: #CDB380;
+    background-color: #fffbaa;
     color: #000;
 }
 
 div.submit-incident a:hover{
-	background-color: #368C00;
+	background-color: #4f9113;
 }
 
 
 /* Category Filter Side Bar */
 ul.category-filters{
     background: #E7E3DA;
-    border-top-color: #C7C2BC;
-    border-bottom-color: #C7C2BC;
+    border-top-color: #2c3e50;
+    border-bottom-color: #2c3e50;
 }
 
 ul.category-filters li a{
@@ -83,6 +83,6 @@ ul.category-filters li a{
 
 ul.category-filters li a:hover, ul.category-filters li a.active {
     color: #FFFFFF;
-    background-color: #036564;
-    border-color: #036564;
+    background-color: #2c3e50;
+    border-color: #2c3e50;
 }
