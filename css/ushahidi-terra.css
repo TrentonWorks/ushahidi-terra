@@ -1,10 +1,10 @@
 /*
-Theme Name: Ushahidi-Terra
+Theme Name: Ushahidi-Terra Mod for TrentonWorks
 Description: Blues and Yellows
 Version: 1.01;
 
 Theme Updated by Josh
-Last Update 4/20/2015
+Last Update 5/14/2015
 */
 
 /* header background */
@@ -34,10 +34,9 @@ table.table-list tbody tr td a{
     color: #0099CC;
 }
 
-/* Logo Box */
+/* Logo Box, if you want a background specifically for the logo*/
 div#logo{
-    background: #2c3e50 url(../images/solvecitygraphictransparent.png);
-    /*background-color: #E8DDCB; */
+        /*background-color: #E8DDCB; */
 }
 
 /* Main Menu */
